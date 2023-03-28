@@ -1,0 +1,6 @@
+Roadmap - https://whimsical.com/100-days-of-dsa-JjsnhMcKViecPVFfFAZx3g
+
+STL
+Abstract and Virtual class, function
+
+book - https://o6ucs.files.wordpress.com/2012/10/data-structures-algorithms-and-applications-in-c-by-sartraj-sahani.pdf

@@ -1,0 +1,86 @@
+TOPICS--
+
+1] Class and objects
+2] Access Modifiers
+3] Getters and Setters
+4] Constructors
+5] Encapsulation
+6] Abstraction
+7] Inheritance
+8] Polymorphism
+
+
+
+⭐ what is oops- The method in which the code always revolves around the object.
+
+⭐ Class --
+   class classname
+   { 
+
+   };
+
+⭐ object- 
+
+
+⭐ Access Modifiers --
+   used to assign the accessibilty of class members like variables, functions, contructors, etc.
+   public -  so the classes, objects, variables can be accessed to the main function.
+   private - so the things only can be accessed in the particular class.
+   protected - 
+
+⭐ Getter and Setter-- 
+   used to access private members of class as well as to get and set the value of it.
+   We can use getter and setter for all the access Modifiers but for private Modifiers it should strictly be use.
+
+⭐constructor -- 
+   used so that we dont have to define again and again 
+
+⭐ Encapsulation --
+  to get all data members and data function in a same class
+  we can make class-read only by this.
+  we can hide the data member by this
+
+
+⭐ Abstraction- 
+   To provide only some information and hiding the implemantation details to user.
+   It means it used to hide the internal information about the code by providing only info needed.
+   Eg] When you send email, you just have to click send button and sent message is appeared. You dont
+   know what happens when you click send or how data is transmitted over network etc.
+   We implement it using Class which groups data according to access Modifiers.
+
+--> Encapsulation is binding the data while Abstraction is hiding the data.
+
+⭐ Inheritance-
+  To create a derived/child class from the base/parent class.
+  In this, child class derives all the feature of parent class and can have additional features also.
+  Reuse the code fucntionality, fast time implemantation
+  
+  Modes of Inheritance - Public, protected, private.
+
+  Types of Inheritance- 
+  1. Single Inheritance - Single child class with single parent class (class A --> Class B)
+  2. Multilevel - child class becomes the parent class for another child class (class A --> class B --> class C) 
+  3. Multiple - child class have more than one parent class. 
+  4. Heirarical - one class is parent class of more than one child class
+  5. Hybrid - Combination of any two or more types of Inheritance.
+
+
+⭐ Polymorphism - 
+   Means many forms
+   concept that allows as to perfome single action in a different ways.
+   Eg; A male can be a Father, Brother, Husband, etc, in this a single person have different behaviours is knows an Polymorphism.
+
+   Types of Polymorphism- 
+   1] Compile time poly (Static) - Functoin oveloading, operator overloading
+   2] Runtime poly (dynamic) - method overriding/ virtual function
+
+   a] Function oveloading - multiple fucn in class with same name but different parameters
+                            func can be overloaded by using diff numbers or types of arguments.
+
+   b] operator oveloading - an operation having multiple tasks.
+                     eg] + operator have task to add two operands, but we can make it to subtract two operands, etc etc
+
+   2,a] Method overriding - can redifne the methods of parent class in a child class.
+        means, sometimes child class is not satisfied with the methods of parent class, so it can redifine the methods in child class.
+
+

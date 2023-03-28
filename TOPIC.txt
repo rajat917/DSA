@@ -1,0 +1,26 @@
+CPP- 
+1] Basic I/O
+2] Comments
+3] DataTypes
+4] if else
+5] switch case statements
+6] Arrays Basic
+7] strings
+8] loops
+9] functions
+10] pass by value and reference
+
+OOPS- 
+11] Class and objects
+12] Access Modifiers
+13] Getters and Setters
+14] Constructors
+15] Encapsulation
+16] Abstraction
+17] Inheritance
+18] Polymorphism
+
+DSA-
+19] Time and Space Complexity
+20] Recursion and Backtracking
+21] Arrays 

@@ -1,0 +1,20 @@
+Topics- 
+
+1] Time and Space Complexity
+2] Recursion and Backtracking
+3] Arrays
+4] Linkedlist
+5] Stack
+6] Queue
+7] Searching 
+8] Hashmaps
+
+
+
+Remaining-
+1]dobuly Queue
+2] 2 sortings
+
+
+⭐ Linked list- 
+collection of nodes which contain data and the address of next node.

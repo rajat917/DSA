@@ -1,0 +1,105 @@
+TOPICS---
+1] Basic I/O 
+2] Comments
+3] DataTypes
+4] if else
+5] switch
+6] arrays
+7] strings
+8] Loops- for, while, do while
+9] functions
+10] pass by value and references
+11] STL - Standard Template Library
+
+
+
+
+⭐ COMMENTS :-
+
+// This is single line COMMENTS
+/* This is 
+   multi line COMMENTS */
+
+
+⭐ DATA TYPES :-
+int, char, string, short, long, long long, float,
+etc are knows as DataTypes.
+
+
+⭐ VARIABLES :-
+eg; int a;       // It means declaring the variable a with int data type.
+    char b-9;
+In these, a and b are variables.
+
+int, long, long long is used for intergers.
+float, double, long double is used for decimal numbers.
+
+string s1; is used to take word (eg, hey i am rajat, then it will take only hey)
+string str;
+getline (cin, str);        is used to take whole line.
+
+
+⭐ OPERATORS :-
+mathematical expressions- +,-,*,/, etc.
+
+
+⭐ CONDITIONAL STATEMENTS :-
+if-else statements
+
+
+⭐ TYPECASTING :-
+eg: cout<<"a+b is" << (float) a+b <<endl;
+here, 
+     float is typecasted.
+
+
+⭐ SWITCH STATEMENTS :-
+switch (expression)
+{
+     case 1:
+     /* expression*/
+     break;
+
+     default:
+     /* expression*/
+     break;
+}
+
+
+⭐ LOOPS :-
+for, while, do while loops.
+
+
+⭐ FUNCTIONS :-
+int main() -  It is main function.
+eg- add function
+int add(int a, int b)
+{
+   int c;
+   c = a + b;
+   return c;  
+}
+Just like above we can create any function in the program.
+
+
+⭐ ARRAYS :-
+int arr[4] = {};
+
+⭐ to include all the libraries of C++ use,
+   #include <bits/stdc++.h>
+
+
+⭐ Pass by Value and Refernce:
+pass by value means send a copy to the Fucntion.
+pass by Refernce means sending the original to function (to use it, just put % sign before the int)
+
+
+⭐ Vector:
+It is like dynamic array which is used to store the data but when they get filled full then it create new
+vector of double size and copy all elements from prev to new vector.
+
+
+⭐Max and Min Heap:
+Heap is Data Structure.
+Max heap prints maximum elements first to smallest
+Min heap prints min element first to greatest
