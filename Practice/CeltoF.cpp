@@ -17,6 +17,8 @@ int main()
         cout<<c;
     }
 
+    //Hello my name is suzieeee
+
     else if (x == f)
     {
         cout<<"Enter temp- ";
