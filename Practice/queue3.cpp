@@ -32,7 +32,7 @@ class queue
         else
         rear++;
 
-        arr[rear] = data;
+        arr[rear] = data;  //taking common from all above.
         return true;
 
     }
@@ -44,6 +44,9 @@ int main()
 
     q1.enqueue(89);
     q1.enqueue(90);
+
+    q1.enqueue(56);
+    q1.enqueue(68);
 
     
 }

@@ -8,6 +8,11 @@ Topics-
 6] Queue
 7] Searching 
 8] Hashmaps
+9] Trees
+10] Heap
+11] Sliding window
+12] Greedy Algorithms
+
 
 
 
